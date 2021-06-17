@@ -31,6 +31,7 @@ fw -h # Alternatively, you can also use --help
 You can install `fw` via Homebrew
 
 ```bash
+brew tap japrozs/tap
 brew install fw
 ```
 
