@@ -1,0 +1,18 @@
+[package]
+name = "fw"
+version = "0.0.1"
+authors = ["Japroz-Saini <sainijaproz@gmail.com>"]
+edition = "2018"
+readme = "README.md"
+description = "A filewatcher for all programming languages"
+repository = "https://github.com/japrozs/fw"
+license = "MIT"
+homepage = "https://github.com/japrozs/fw"
+license-file = "LICENSE.md"
+keywords = ["filewatcher", "fw"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+notify = "4.0.17"
+colored = "2.0.0"
